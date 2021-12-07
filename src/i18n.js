@@ -10,7 +10,7 @@ const languageList = {
     "es-ES": "Español",
     "fa": "Farsi",
     "pt-BR": "Português (Brasileiro)",
-    "fr-FR": "Français (France)",
+    "fr-FR": "Français",
     "hu": "Magyar",
     "hr-HR": "Hrvatski",
     "it-IT": "Italiano (Italian)",
